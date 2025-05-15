@@ -1,6 +1,6 @@
-#Declaracion Profesional.
+# Declaracion Profesional.
 
-Mi nombre es David Dael.
+## Mi nombre es David Dael.
 
 Soy un principiante pero apacionado en la ciberseguridad
 y estoy comprometido a desarrollar habilidades en este campo para la protección de sistemas, analisis de riesgo y prevención de amenazas, entre mas campos sobre la ciberseguridad.
